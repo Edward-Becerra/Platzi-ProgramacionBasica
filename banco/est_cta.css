@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Bahnschrift Light;
+    box-sizing: border-box;
+}
+
+body {
+    background: ##9fcfcf;
+    display: flex;
+    min-height: 100vh;
+}
+img{
+  margin-right: auto;
+  width: 100%;
+  max-width: 1500px;
+  max-height: 750px;
+  padding: 30px;
+}
+
+h1{
+    text-align: center;
+    margin-bottom: 20px;
+    color: rgba(46,71,198,0.81);
+    width: 100%;
+  }
+
+h2{
+    text-align: center;
+    margin-bottom: 20px;
+    color: rgba(0,0,0,0.50);
+  }
